@@ -4,7 +4,7 @@ import AsyncStorage from '@react-native-community/async-storage';
 import firebase from 'react-native-firebase';
 
 // const APP_ID = '078105E7-BD8C-43C9-A583-59E334353965'; // test
-const APP_ID = '9DA1B1F4-0BE6-4DA8-82C5-2E81DAB56F23'; // sample
+const APP_ID = 'D499737D-62BB-4B87-A3F8-8349AAA31C6C'; // sample
 
 export const sbRegisterPushToken = () => {
   return new Promise((resolve, reject) => {
